@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal,1,Conn_01x02_MountingPin,
+J2,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04,
+SW1,SW_Tactile_SPST_Angled_PTS645Vx83-2LFS,1,SW_Push,
+SW2,SW_CuK_OS102011MA1QN1_SPDT_Angled,1,SW_SPDT,
